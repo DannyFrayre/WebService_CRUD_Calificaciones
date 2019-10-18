@@ -1,0 +1,4 @@
+C:\Users\ASUS\Documents\WebService_CRUD\WebService_CRUD\bin\WebService_CRUD.dll
+C:\Users\ASUS\Documents\WebService_CRUD\WebService_CRUD\bin\WebService_CRUD.pdb
+C:\Users\ASUS\Documents\WebService_CRUD\WebService_CRUD\obj\Debug\WebService_CRUD.dll
+C:\Users\ASUS\Documents\WebService_CRUD\WebService_CRUD\obj\Debug\WebService_CRUD.pdb
